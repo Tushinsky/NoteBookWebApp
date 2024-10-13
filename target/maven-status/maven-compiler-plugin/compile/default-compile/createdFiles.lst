@@ -1,0 +1,6 @@
+com\mycompany\notebookwebapp\AddItemServlet.class
+com\mycompany\notebookwebapp\resources\JakartaEE10Resource.class
+com\mycompany\notebookwebapp\ShopServlet.class
+com\mycompany\notebookwebapp\OrdersServlet.class
+com\mycompany\notebookwebapp\RegisterItemServlet.class
+com\mycompany\notebookwebapp\JakartaRestConfiguration.class
